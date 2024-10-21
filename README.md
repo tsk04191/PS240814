@@ -1,2 +1,5 @@
 # PS240814
-deck buliding adventure rogue-lite
+## 개요  
+실시간 로그라이트 카드게임  
+
+## 설명
